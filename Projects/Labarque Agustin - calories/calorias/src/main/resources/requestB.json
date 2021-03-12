@@ -1,0 +1,28 @@
+[
+  {
+    "nombre": "ensalada1",
+    "ingredientes": [
+      {
+        "name": "Aceitunas negras",
+        "weight": 10
+      },
+      {
+        "name": "Alcachofas",
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "nombre": "ensalada2",
+    "ingredientes": [
+      {
+        "name": "Porotos verdes",
+        "weight": 10
+      },
+      {
+        "name": "Berenjena",
+        "weight": 10
+      }
+    ]
+  }
+]
