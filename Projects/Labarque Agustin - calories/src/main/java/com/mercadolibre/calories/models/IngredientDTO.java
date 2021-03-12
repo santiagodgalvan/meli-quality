@@ -1,11 +1,11 @@
-package com.mercadolibre.calorias.models;
+package com.mercadolibre.calories.models;
 
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-public class IngredienteDTO {
+public class IngredientDTO {
     private String name;
     private Double weight;
 }

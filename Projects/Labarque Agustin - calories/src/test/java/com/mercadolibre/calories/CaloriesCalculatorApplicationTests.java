@@ -1,10 +1,10 @@
-package com.mercadolibre.calorias;
+package com.mercadolibre.calories;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ContadorCaloriasApplicationTests {
+class CaloriesCalculatorApplicationTests {
 
 	@Test
 	void contextLoads() {
