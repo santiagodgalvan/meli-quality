@@ -1,4 +1,4 @@
-package com.bootcamp.CaloriesCalculator;
+package com.bootcamp.caloriescalculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

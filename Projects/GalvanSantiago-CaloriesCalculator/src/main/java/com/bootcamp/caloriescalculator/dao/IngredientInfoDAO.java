@@ -1,6 +1,6 @@
-package com.bootcamp.CaloriesCalculator.dao;
-import com.bootcamp.CaloriesCalculator.model.dto.IngredientInfoDTO;
-import com.bootcamp.CaloriesCalculator.repository.IFoodRepository;
+package com.bootcamp.caloriescalculator.dao;
+import com.bootcamp.caloriescalculator.model.dto.IngredientInfoDTO;
+import com.bootcamp.caloriescalculator.repository.IFoodRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
