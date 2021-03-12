@@ -1,13 +1,13 @@
-package com.mercadolibre.calorias;
+package com.mercadolibre.calories;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ContadorCaloriasApplication {
+public class CaloriesCalculatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ContadorCaloriasApplication.class, args);
+		SpringApplication.run(CaloriesCalculatorApplication.class, args);
 	}
 
 }
