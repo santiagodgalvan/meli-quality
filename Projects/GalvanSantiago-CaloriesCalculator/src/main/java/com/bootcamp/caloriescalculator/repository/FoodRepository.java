@@ -1,6 +1,6 @@
-package com.bootcamp.CaloriesCalculator.repository;
+package com.bootcamp.caloriescalculator.repository;
 
-import com.bootcamp.CaloriesCalculator.model.dto.IngredientInfoDTO;
+import com.bootcamp.caloriescalculator.model.dto.IngredientInfoDTO;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.Getter;

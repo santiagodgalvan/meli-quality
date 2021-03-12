@@ -1,4 +1,4 @@
-package com.bootcamp.CaloriesCalculator;
+package com.bootcamp.caloriescalculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
